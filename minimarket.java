@@ -291,5 +291,5 @@ public class minimarket {
         System.out.println(removed.name + " telah dihapus dari keranjang.");
         
     }
-
+j
 }
